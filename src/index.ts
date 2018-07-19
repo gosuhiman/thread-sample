@@ -43,7 +43,7 @@ class ThreadSampleApplication {
   run() {
     const initialState = new State();
     initialState.origin = "MAIN";
-    initialState.wololo = "f73hf8273hf82hfsihfsiudhfosif3fuhfsiudfhsdf";
+    initialState.wololo = "f73hf8273hf82hfsihfsiudhfosif3hfsiudfhsdf";
     initialState.time = Date.now();
     initialState.obj = {
       a: "asdad34g3g",
