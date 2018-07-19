@@ -1,0 +1,24 @@
+{
+  "name": "thread-sample",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "scripts": {
+    "start:dev": "webpack-serve"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "ts-loader": "^4.4.2",
+    "ts-node": "^7.0.0",
+    "typescript": "^2.9.2",
+    "webpack": "^4.16.1",
+    "webpack-cli": "^3.0.8",
+    "webpack-serve": "^2.0.2",
+    "worker-loader": "^2.0.0"
+  },
+  "dependencies": {
+    "@types/lodash": "^4.14.112",
+    "lodash": "^4.17.10"
+  }
+}
